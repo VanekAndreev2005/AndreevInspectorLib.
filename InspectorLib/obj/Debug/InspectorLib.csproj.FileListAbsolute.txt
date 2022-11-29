@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\AndreevInspectorLib\InspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\User\source\repos\AndreevInspectorLib\InspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\User\source\repos\AndreevInspectorLib\InspectorLib\obj\Debug\InspectorLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AndreevInspectorLib\InspectorLib\obj\Debug\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AndreevInspectorLib\InspectorLib\obj\Debug\InspectorLib.dll
+C:\Users\User\source\repos\AndreevInspectorLib\InspectorLib\obj\Debug\InspectorLib.pdb
